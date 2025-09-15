@@ -1,4 +1,7 @@
 <h1>Sleep Hours Prediction using Machine Learning</h1>
+<h2><strong>Objective: </strong></h2>
+
+To predict sleep hours of the students from the given dataset. 
 <h2><strong>Dataset: </strong></h2>
 <p>Format - CSV</p>
 <h2><strong>Code: </strong></h2> 
